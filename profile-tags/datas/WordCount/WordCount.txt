@@ -1,0 +1,10 @@
+hadoop hive hbase sql impala
+sqoop oozie spark flink
+hadoop hive hbase sql impala
+oozie spark flink
+hadoop hive sql impala
+sqoop oozie spark flink
+hadoop hive hbase impala
+sqoop flink
+hadoop hive hbase sql impala
+oozie spark flink

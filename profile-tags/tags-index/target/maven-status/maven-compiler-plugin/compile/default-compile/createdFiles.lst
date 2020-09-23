@@ -1,0 +1,8 @@
+cn\itcast\tags\index\coprocessor\SolrIndexCoprocessorObserver.class
+cn\itcast\tags\index\coprocessor\SolrWriter.class
+cn\itcast\tags\index\hbase\HBaseSolrIndexCoprocesser.class
+cn\itcast\tags\index\tags\TagsIndexTest.class
+cn\itcast\tags\index\hbase\SolrIndexCoprocessor.class
+cn\itcast\tags\index\coprocessor\SolrWriter$CommitTimer.class
+cn\itcast\tags\index\hbase\SolrTools.class
+cn\itcast\tags\index\solr\SolrIndexTest.class
